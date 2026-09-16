@@ -16,7 +16,7 @@
 https://drive.google.com/file/d/1VQ2VqHwKQa0hDQ46B_5-INgtUm85DX0t/view?usp=sharing
 
 # Скриншоты
-![Экран меню]()
-![Геймплей 1]()
-![Геймплей 2]()
-![Экран статистики]()
+![Экран меню](https://github.com/Dimpolval/my-unity-game-arcade-dying-space-the-final-battle/blob/main/Assets/Screenshots/Menu.png)
+![Геймплей 1](https://github.com/Dimpolval/my-unity-game-arcade-dying-space-the-final-battle/blob/main/Assets/Screenshots/GamePlay1.png)
+![Геймплей 2](https://github.com/Dimpolval/my-unity-game-arcade-dying-space-the-final-battle/blob/main/Assets/Screenshots/GamePlay2.png)
+![Экран статистики](https://github.com/Dimpolval/my-unity-game-arcade-dying-space-the-final-battle/blob/main/Assets/Screenshots/Statistics.png)
