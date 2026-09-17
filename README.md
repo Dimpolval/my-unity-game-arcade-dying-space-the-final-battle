@@ -13,7 +13,7 @@
 - Windows
 
 # Ссылка на билд
-https://drive.google.com/file/d/1VQ2VqHwKQa0hDQ46B_5-INgtUm85DX0t/view?usp=sharing
+https://clck.ru/3Vt5vq
 
 # Скриншоты
 ![Экран меню](https://github.com/Dimpolval/my-unity-game-arcade-dying-space-the-final-battle/blob/main/Assets/Screenshots/Menu.png)
